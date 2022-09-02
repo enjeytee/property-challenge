@@ -1,0 +1,10 @@
+export const reviewTotalDisplay = document.querySelector("#reviews");
+export const returningUserDisplay = document.querySelector("#returning-user");
+export const userNameDisplay = document.querySelector("#user");
+export const propertiesDiv = document.querySelector(".properties");
+export const locationDiv = document.querySelector(".footer");
+export const reviewContainer = document.querySelector(".reviews");
+export const container = document.querySelector(".container");
+export const button = document.querySelector("button");
+export const mainImageContainer = document.querySelector(".main-image");
+//# sourceMappingURL=htmlElements.js.map

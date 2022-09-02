@@ -1,0 +1,9 @@
+export const reviewTotalDisplay = document.querySelector("#reviews") as HTMLHeadingElement;
+export const returningUserDisplay = document.querySelector("#returning-user") as HTMLSpanElement;
+export const userNameDisplay = document.querySelector("#user") as HTMLSpanElement;
+export const propertiesDiv = document.querySelector(".properties") as HTMLDivElement;
+export const locationDiv = document.querySelector(".footer") as HTMLDivElement;
+export const reviewContainer = document.querySelector(".reviews") as HTMLDivElement;
+export const container = document.querySelector(".container") as HTMLDivElement;
+export const button = document.querySelector("button") as HTMLButtonElement;
+export const mainImageContainer = document.querySelector(".main-image") as HTMLDivElement;
